@@ -1,2 +1,4 @@
 # tinDog project
-[Screenshot] Screenshot_20260331-040211_DuckDuckGo.jpg
+![Screenshot]Screenshot.jpg
+
+[Live Demo](https://rinki88.github.io/tinDog/)
