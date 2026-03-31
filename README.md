@@ -1,4 +1,4 @@
-# tinDog project
+#tinDog project
 
 ![Screenshot](Screenshot.jpg)
 
